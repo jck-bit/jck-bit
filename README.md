@@ -38,6 +38,20 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jck-bit)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 July 2021 - To: 21 October 2022
+
+Total Time: 1,132 hrs 33 mins
+
+JavaScript       623 hrs 21 mins >>>>>>>>>>>>>>-----------   55.04 %
+Python           209 hrs 44 mins >>>>>--------------------   18.52 %
+CSS              104 hrs 47 mins >>-----------------------   09.25 %
+HTML             95 hrs 24 mins  >>-----------------------   08.42 %
+TypeScript       43 hrs 5 mins   >------------------------   03.80 %
+JSON             15 hrs 7 mins   -------------------------   01.34 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>

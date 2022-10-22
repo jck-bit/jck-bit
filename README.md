@@ -7,13 +7,13 @@
 <h1 align="center">Hi 👋, I'm jck-bit</h1>
 <h3 align="center">I am a Full stack developer from kenya</h3>
 
-<p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p>
+<!-- <p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jck-bit" alt="jck-bit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kinyanjuijack" target="blank"><img src="https://img.shields.io/twitter/follow/kinyanjuijack?logo=twitter&style=for-the-badge" alt="kinyanjuijack" /></a> </p>
 
-<p><a href="https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5"><img src="https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg" alt="Total time coded since Jul 20 2021" /></a></p>
+<p><a href="https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5"><img src="https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg" alt="Total time coded since Jul 20 2021" /></a></p> -->
 
 - 🔭 I’m currently working on [The store Manager](https://github.com/jck-bit/The-store-Manager-in-Nodejs)
 

@@ -24,7 +24,7 @@ jobs:
 
         with:
 
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SHOW_OS: "True"
 

@@ -22,11 +22,16 @@
 
 - 🌱 I’m currently learning **Redux,**
 
+- 🌱checkout all about me **https://jck-bit.github.io/About-me/**
+
 - 👨‍💻 All of my projects are available at [https://github.com/jck-bit](https://github.com/jck-bit)
+
 
 - 💬 Ask me anything about **MERN, Python, Flask, Typescript**
 
 - 📫 How to reach me **jckkinyanjui@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,6 +59,10 @@ HTML             95 hrs 26 mins  >>-----------------------   08.12 %
 TypeScript       64 hrs 55 mins  >------------------------   05.52 %
 JSON             15 hrs 13 mins  -------------------------   01.30 %
 ```
+
+- **Wakatime Badge**
+
+     [![wakatime](https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg)](https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5)
 
 <!--END_SECTION:waka-->
 

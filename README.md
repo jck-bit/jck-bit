@@ -3,10 +3,9 @@
 **<h1 align="center" >Hello world👋, I'm Kinyanjui Jack</h1>**
 <h3 align="center">I am a Full stack developer from kenya</h3>
 
-
 <img align="right" alt="frontend development" width="400" src="https://media-exp1.licdn.com/dms/image/C4D12AQGyJbTrFhlMqw/article-cover_image-shrink_720_1280/0/1638542638585?e=2147483647&v=beta&t=LTivd2Paf3PBpydFw0ilISMshVIC24I7RPagf1_08_0">
 
-<h1 align="center" font-weight="bold"> Hey </h1>
+<h1 align="center" font-weight="bold"> Hello </h1>
 <h3 align="center">I am a Full stack developer from kenya</h3>
 
  <p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p>
@@ -60,9 +59,9 @@ TypeScript       64 hrs 55 mins  >------------------------   05.52 %
 JSON             15 hrs 13 mins  -------------------------   01.30 %
 ```
 
-- **Wakatime Badge**
+**Wakatime Badge**
 
-     [![wakatime](https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg)](https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5)
+ [![wakatime](https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg)](https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5)
 
 <!--END_SECTION:waka-->
 

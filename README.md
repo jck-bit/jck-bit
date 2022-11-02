@@ -47,19 +47,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2021 - To: 28 October 2022
+From: 19 July 2021 - To: 01 November 2022
 
-Total Time: 1,175 hrs 55 mins
+Total Time: 1,201 hrs 15 mins
 
-JavaScript       638 hrs 26 mins >>>>>>>>>>>>>>-----------   54.29 %
-Python           211 hrs 3 mins  >>>>---------------------   17.95 %
-CSS              105 hrs 29 mins >>-----------------------   08.97 %
-HTML             95 hrs 26 mins  >>-----------------------   08.12 %
-TypeScript       64 hrs 55 mins  >------------------------   05.52 %
-JSON             15 hrs 13 mins  -------------------------   01.30 %
+JavaScript       650 hrs 32 mins >>>>>>>>>>>>>>-----------   54.16 %
+Python           211 hrs 3 mins  >>>>---------------------   17.57 %
+CSS              105 hrs 57 mins >>-----------------------   08.82 %
+HTML             95 hrs 38 mins  >>-----------------------   07.96 %
+TypeScript       76 hrs 17 mins  >>-----------------------   06.35 %
+JSON             15 hrs 21 mins  -------------------------   01.28 %
 ```
 
 **Wakatime Badge**
+
 
  [![wakatime](https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg)](https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5)
 

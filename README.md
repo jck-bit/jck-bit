@@ -26,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jck-bit](https://github.com/jck-bit)
 
 
-- 💬 Ask me anything about **MERN, Python, Flask, Typescript**
+- 💬 Ask me anything about **Nodejs,React,Javascript, Python, Flask, Typescript**
 
 - 📫 How to reach me **jckkinyanjui@gmail.com**
 

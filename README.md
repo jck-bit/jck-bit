@@ -38,8 +38,6 @@
 <a href="https://stackoverflow.com/users/spacious 2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="spacious 2000" height="30" width="40" /></a>
 </p>
 
-# **Github contribution Graph**
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jck-bit)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  **My coding stats**
 

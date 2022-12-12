@@ -6,7 +6,7 @@
 <img align="right" alt="frontend development" width="400" src="https://media-exp1.licdn.com/dms/image/C4D12AQGyJbTrFhlMqw/article-cover_image-shrink_720_1280/0/1638542638585?e=2147483647&v=beta&t=LTivd2Paf3PBpydFw0ilISMshVIC24I7RPagf1_08_0">
 
 <h1 align="center" font-weight="bold"> Hello </h1>
-<h3>I am an aspiring Full stack developer from kenya</h3>
+<p>I am an aspiring Full stack developer</p>
 
 I’m currently a student at the **The University of Nairobi**
 

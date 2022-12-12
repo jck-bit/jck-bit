@@ -23,7 +23,7 @@ I’m  a student at the **The University of Nairobi**
 
 - 🌱checkout all about me [Here](https://jck-bit.github.io/About-me/)
 
-- 👨‍💻 All of my projects are available at [my repository](https://github.com/jck-bit?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jck-bit?tab=repositories)
 
 
 - 💬 Ask me anything about **Nodejs,React,Javascript, Python, Flask, Typescript**

@@ -8,7 +8,7 @@
 
 I’m  a student at the **The University of Nairobi**
 
- <p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p>
+<!--  <p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p> -->
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jck-bit" alt="jck-bit" /></a> </p>

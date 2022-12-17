@@ -44,16 +44,16 @@ I’m  a student at the **The University of Nairobi**
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2021 - To: 15 December 2022
+From: 19 July 2021 - To: 16 December 2022
 
-Total Time: 1,489 hrs 18 mins
+Total Time: 1,496 hrs 25 mins
 
-JavaScript       840 hrs         >>>>>>>>>>>>>>-----------   56.40 %
-Python           214 hrs 1 min   >>>>---------------------   14.37 %
-TypeScript       155 hrs 33 mins >>>----------------------   10.45 %
-CSS              111 hrs 28 mins >>-----------------------   07.48 %
-HTML             97 hrs 5 mins   >>-----------------------   06.52 %
-JSON             18 hrs 41 mins  -------------------------   01.25 %
+JavaScript       840 hrs 9 mins  >>>>>>>>>>>>>>-----------   56.14 %
+Python           214 hrs 1 min   >>>>---------------------   14.30 %
+TypeScript       162 hrs 24 mins >>>----------------------   10.85 %
+CSS              111 hrs 29 mins >>-----------------------   07.45 %
+HTML             97 hrs 5 mins   >>-----------------------   06.49 %
+JSON             18 hrs 46 mins  -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->

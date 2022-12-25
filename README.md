@@ -44,7 +44,7 @@ I’m  a student at the **The University of Nairobi**
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2021 - To: 23 December 2022
+From: 19 July 2021 - To: 24 December 2022
 
 Total Time: 1,525 hrs 44 mins
 

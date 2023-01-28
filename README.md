@@ -21,7 +21,7 @@ I’m  a student at the **The University of Nairobi**
 
 - 🌱 I’m currently levelling up on **NodeJs, Typescript, Javascript and python**
 
-- 🌱checkout all about me [Here](https://jck-bit.github.io/About-me/)
+- 🌱checkout all about me [Here](https://jck-bit.github.io/About-Me-page/)
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/jck-bit?tab=repositories)
 

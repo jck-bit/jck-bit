@@ -17,7 +17,7 @@ I’m  a student at the **The University of Nairobi**
 
 <p><a href="https://wakatime.com/@117c9381-f847-4e14-824a-4560033e89d5"><img src="https://wakatime.com/badge/user/117c9381-f847-4e14-824a-4560033e89d5.svg" alt="Total time coded since Jul 20 2021" /></a></p> -->
 
-- 🔭 I’m currently working on [A social media app in MERN](https://github.com/jck-bit/A-social-media-app)
+- 🔭 I’m currently working on [A social media app in Nextjs](https://github.com/jck-bit/Social-Media-App)
 
 - 🌱 I’m currently levelling up on **NodeJs, Typescript, Javascript and python**
 

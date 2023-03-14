@@ -6,7 +6,6 @@
 
 <p>I am an aspiring Full stack developer</p>
 
-I’m  a student at the **The University of Nairobi**
 
 <!--  <p align="left"> <img border-radius="4px" src="https://komarev.com/ghpvc/?username=jck-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jck-bit" /> </p> -->
 

@@ -23,15 +23,15 @@ Email me **jckkinyanjui@gmail.com**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2021 - To: 29 June 2023
+From: 19 July 2021 - To: 30 June 2023
 
-Total Time: 2,335 hrs 44 mins
+Total Time: 2,342 hrs 1 min
 
-JavaScript       871 hrs 43 mins >>>>>>>>>----------------   37.32 %
-TypeScript       571 hrs 38 mins >>>>>>-------------------   24.47 %
-Python           440 hrs 47 mins >>>>>--------------------   18.87 %
-CSS              174 hrs 32 mins >>-----------------------   07.47 %
-HTML             165 hrs 31 mins >>-----------------------   07.09 %
+JavaScript       871 hrs 43 mins >>>>>>>>>----------------   37.22 %
+TypeScript       572 hrs 19 mins >>>>>>-------------------   24.44 %
+Python           445 hrs 51 mins >>>>>--------------------   19.04 %
+CSS              174 hrs 32 mins >>-----------------------   07.45 %
+HTML             166 hrs 2 mins  >>-----------------------   07.09 %
 ```
 
 <!--END_SECTION:waka-->

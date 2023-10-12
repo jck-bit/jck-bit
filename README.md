@@ -5,7 +5,7 @@
 
 <p align="center" justify-content="center">I am an aspiring Full stack developer</p>
 
-<p align="center"> Am currently workin on Stockify, view it here <a>https://stockify-c1t2.vercel.app</a></p>
+
 
 
 

@@ -23,7 +23,7 @@ Email me **jckkinyanjui@gmail.com**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2021 - To: 25 December 2023
+From: 19 July 2021 - To: 26 December 2023
 
 Total Time: 3,065 hrs 42 mins
 

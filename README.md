@@ -1,4 +1,4 @@
-<img width="100%" object-fit="cover" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv">
+<img width="100%" object-fit="cover" src="https://media.tenor.com/cBUtv3HOBh4AAAAC/header.gif">
 
 **<h1 align="center" >Hello world, I'm Kinyanjui Jack</h1>**
 

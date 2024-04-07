@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2021 - To: 05 April 2024
+From: 19 July 2021 - To: 06 April 2024
 
-Total Time: 3,385 hrs 35 mins
+Total Time: 3,390 hrs 20 mins
 
-JavaScript                 975 hrs 44 mins >>>>>>>------------------   28.82 %
-Python                     839 hrs 18 mins >>>>>>-------------------   24.79 %
-TypeScript                 804 hrs 16 mins >>>>>>-------------------   23.76 %
-HTML                       221 hrs 36 mins >>-----------------------   06.55 %
-CSS                        187 hrs 24 mins >------------------------   05.54 %
+JavaScript                 979 hrs 17 mins >>>>>>>------------------   28.88 %
+Python                     839 hrs 18 mins >>>>>>-------------------   24.76 %
+TypeScript                 804 hrs 16 mins >>>>>>-------------------   23.72 %
+HTML                       222 hrs 5 mins  >>-----------------------   06.55 %
+CSS                        187 hrs 58 mins >------------------------   05.54 %
 ```
 
 <!--END_SECTION:waka-->

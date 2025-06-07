@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2021 - To: 05 June 2025
+From: 19 July 2021 - To: 06 June 2025
 
-Total Time: 4,755 hrs 51 mins
+Total Time: 4,765 hrs 38 mins
 
-TypeScript                         1,298 hrs 30 mins>>>>>>>------------------   27.30 %
-Python                             1,256 hrs 37 mins>>>>>>>------------------   26.42 %
-JavaScript                         1,048 hrs 2 mins>>>>>>-------------------   22.04 %
-HTML                               247 hrs 57 mins >------------------------   05.21 %
-Rust                               232 hrs 11 mins >------------------------   04.88 %
+TypeScript                         1,298 hrs 30 mins>>>>>>>------------------   27.25 %
+Python                             1,256 hrs 38 mins>>>>>>>------------------   26.37 %
+JavaScript                         1,048 hrs 2 mins>>>>>--------------------   21.99 %
+HTML                               247 hrs 57 mins >------------------------   05.20 %
+Rust                               241 hrs 49 mins >------------------------   05.07 %
 ```
 
 <!--END_SECTION:waka-->

@@ -1,6 +1,6 @@
 # Hi, I’m Jack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">.
 
-Full-stack engineer but lately i've been  on blockchain—especially Solana and exploring MEV strategies,bash scripting, automation, and systems architecture.
+Full-stack engineer lately i've been into blockchain—especially Solana and exploring MEV strategies,bash scripting, automation, and systems architecture.
 
 ---
 

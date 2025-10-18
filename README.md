@@ -1,28 +1,15 @@
-# Hi, I’m Jack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">.
+# Hi, I’m Jack.
 
-Full-stack engineer lately i've been into blockchain—especially Solana and exploring MEV strategies,bash scripting, automation, and systems architecture.
+Im a software engineer and i like building cool websites and tools.
 
 ---
 
-A Full-stack engineer 🚀 from Kenya,i'm currently focused on blockchain—especially Solana—and exploring MEV strategies. I'm leveling up my skills in Linux, Bash scripting, and automation, On the side,i'm building a futures trading bot in Python using agentic architecture.My learning journey includes mastering Neovim, deepening backend architecture knowledge, and staying at the frontier of emerging tech. Outside of code, I enjoy hiking, playing video games,and experimenting with newer technologies.
  
-- 🌍  I'm based in Kenya.
-
 - 🖥️  See my portfolio at <a href="https://kinyanjui.xyz" target="_blank">Portfolio</a>
 
-- ✉️  Contact me at [jckkinyanjui@gmail.com](mailto:jckkinyanjui@gmail.com)
-
-- 🚀  Currently levelling up on my Rust skills and exploring the world of Solana blockchain development
-
-- 🧠  Focused on mastering Bash, Neovim, and  systems architecture and automation solutions.
-
-- 🤝  Open to collaborating on frontend,backend or web3 projects or any projects especially those involving Solana or MEV strategies.
-
-- 📄  Check out my experiences: <a href="https://kinyanjui.xyz" target="_blank">Resume</a>
-
 ---
 
-### 🛠️ Skills
+<!-- ### 🛠️ Skills
 
 #### Programming Languages
 
@@ -134,4 +121,4 @@ A Full-stack engineer 🚀 from Kenya,i'm currently focused on blockchain—espe
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jck-bit&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jck-bit&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jck-bit&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area=true&hide_border=true) -->

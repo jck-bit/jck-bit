@@ -5,8 +5,7 @@ Im a software engineer and i like building cool websites and tools.
 ---
 
  
-- 🖥️  See my portfolio at <a href="[[https://kinyanjui.xyz](https://kinyanjuis-website.vercel.app/)](https://kinyanjuis-website.vercel.app/)" target="_blank">Portfolio</a>
-
+- 🖥️  See my portfolio at <a href="https://kinyanjuis-website.vercel.app/" target="_blank">Portfolio</a>
 ---
 
 <!-- ### 🛠️ Skills

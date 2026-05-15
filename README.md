@@ -1,6 +1,6 @@
 # Hi, I’m Jack.
 
-Im a software engineer and i like building cool websites and tools.
+ i like building cool websites and tools.
 
 ---
 
